@@ -8,7 +8,7 @@ import './plugins/element.js'
 import './assets/css/reset.css' 
 import './assets/css/common.css' 
 
-axios.defaults.baseURL = 'http://localhost:3000'
+axios.defaults.baseURL = 'https://www.iam2r.tk'
 
 
 Vue.config.productionTip = false
