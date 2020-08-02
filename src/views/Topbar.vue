@@ -24,7 +24,6 @@
             <el-button type="danger" round @click="loading">登录</el-button>
             <el-button type="danger" round >注册</el-button>
           </div>
-          <p>nihao</p>
         </div>
       </div>
     </div>
